@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "G G",
+    "GWG",
+    "GRG"
+  ],
+  "key":
+  {
+    "G": "#c:ingots/gold",
+    "R": "#c:dusts/redstone",
+    "W": "minecraft:warped_slab"
+  },
+  "result":
+  {
+    "id": "redev:warped_powered_rail",
+    "count":  6
+  }
+}

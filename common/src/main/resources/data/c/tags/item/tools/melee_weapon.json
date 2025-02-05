@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "redev:aurum_axe",
+    "redev:aurum_sword",
+    "redev:withered_axe",
+    "redev:withered_sword"
+  ]
+}

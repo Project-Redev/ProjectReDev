@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "S S",
+    "SBS",
+    "S S"
+  ],
+  "key":
+  {
+    "S": "#c:rods/wooden",
+    "B":  "minecraft:jungle_slab"
+  },
+  "result":
+  {
+    "id": "redev:jungle_ladder",
+    "count": 3
+  }
+}

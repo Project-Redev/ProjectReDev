@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_door",
+  "pattern":
+  [
+    "##",
+    "##",
+    "##"
+  ],
+  "key":
+  {
+    "#": "redev:petrified_planks"
+  },
+  "result":
+  {
+    "id": "redev:petrified_door",
+    "count": 3
+  },
+  "show_notification": true
+}

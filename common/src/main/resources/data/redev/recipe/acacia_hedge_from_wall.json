@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "HH",
+    "HH"
+  ],
+  "key":
+  {
+    "H": "redev:acacia_hedge_wall"
+  },
+  "result":
+  {
+    "id": "redev:acacia_hedge",
+    "count": 2
+  }
+}

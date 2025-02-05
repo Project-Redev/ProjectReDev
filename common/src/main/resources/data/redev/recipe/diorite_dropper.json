@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "DDD",
+    "D D",
+    "DRD"
+  ],
+  "key":
+  {
+    "D": "minecraft:diorite",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:diorite_dropper",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "I I",
+    "IPI",
+    "I I"
+  ],
+  "key":
+  {
+    "I": "#c:ingots/iron",
+    "P": "redev:whispur_slab"
+  },
+  "result":
+  {
+    "id": "redev:whispur_rail",
+    "count": 16
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "IWI",
+    "IPI",
+    "IRI"
+  ],
+  "key":
+  {
+    "I": "#c:ingots/iron",
+    "P": "minecraft:stone_pressure_plate",
+    "R": "#c:dusts/redstone",
+    "W": "redev:whispur_slab"
+  },
+  "result":
+  {
+    "id": "redev:whispur_detector_rail",
+    "count":  6
+  }
+}

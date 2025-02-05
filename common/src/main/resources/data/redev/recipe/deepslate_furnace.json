@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "DDD",
+    "D D",
+    "DDD"
+  ],
+  "key":
+  {
+    "D": "minecraft:cobbled_deepslate"
+  },
+  "result":
+  {
+    "id": "redev:deepslate_furnace",
+    "count": 1
+  }
+}

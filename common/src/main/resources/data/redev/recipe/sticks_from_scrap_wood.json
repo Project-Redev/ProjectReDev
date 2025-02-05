@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "W",
+    "W"
+  ],
+  "key":
+  {
+    "W": "redev:wood_scrap"
+  },
+  "result":
+  {
+    "id": "minecraft:stick",
+    "count":  2
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "building",
+  "group": "stone_slab",
+  "pattern":
+  [
+    "W"
+  ],
+  "key":
+  {
+    "W": "redev:smooth_basalt_wall"
+  },
+  "result":
+  {
+    "id": "redev:basalt_wall",
+    "count":  1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key":
+  {
+    "C": "#minecraft:coals",
+    "L": "minecraft:crimson_stem",
+    "S": "#c:rods/wooden"
+  },
+  "pattern": [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "result": {
+    "id": "redev:crimson_campfire"
+  },
+  "show_notification": true
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "HH",
+    "HH"
+  ],
+  "key":
+  {
+    "H": "redev:azalea_hedge_wall"
+  },
+  "result":
+  {
+    "id": "redev:azalea_hedge",
+    "count": 2
+  }
+}

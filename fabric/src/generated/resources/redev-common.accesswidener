@@ -1,0 +1,10 @@
+accessWidener	v2	named
+transitive-accessible method net/minecraft/world/level/block/state/properties/WoodType register (Lnet/minecraft/world/level/block/state/properties/WoodType;)Lnet/minecraft/world/level/block/state/properties/WoodType;
+transitive-accessible field net/minecraft/world/level/levelgen/structure/templatesystem/StructureTemplate palettes Ljava/util/List;
+transitive-accessible field net/minecraft/world/entity/monster/AbstractSkeleton bowGoal Lnet/minecraft/world/entity/ai/goal/RangedBowAttackGoal;
+transitive-accessible field net/minecraft/world/entity/monster/AbstractSkeleton meleeGoal Lnet/minecraft/world/entity/ai/goal/MeleeAttackGoal;
+accessible method net/minecraft/world/level/block/state/properties/BlockSetType register (Lnet/minecraft/world/level/block/state/properties/BlockSetType;)Lnet/minecraft/world/level/block/state/properties/BlockSetType;
+accessible method net/minecraft/world/level/block/state/BlockBehaviour$BlockStateBase canSurvive (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z
+accessible method net/minecraft/world/level/block/state/BlockBehaviour canSurvive (Lnet/minecraft/world/level/block/state/BlockState;Lnet/minecraft/world/level/LevelReader;Lnet/minecraft/core/BlockPos;)Z
+accessible field net/minecraft/world/item/Item$Properties id Lnet/minecraft/resources/ResourceKey;
+accessible field net/minecraft/world/item/Item$Properties descriptionId Lnet/minecraft/resources/DependantName;

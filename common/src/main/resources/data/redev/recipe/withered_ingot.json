@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "BBB",
+    "BIB",
+    "BBB"
+  ],
+  "key":
+  {
+    "B": "redev:charred_bone",
+    "I": "redev:aurum_ingot"
+  },
+  "result":
+  {
+    "id": "redev:withered_ingot",
+    "count": 1
+  }
+}

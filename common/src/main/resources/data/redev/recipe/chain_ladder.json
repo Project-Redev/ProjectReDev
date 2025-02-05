@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "# #",
+    "#I#",
+    "# #"
+  ],
+  "key":
+  {
+    "#": "#c:nuggets/iron",
+    "I": "#c:ingots/iron"
+  },
+  "result":
+  {
+    "id": "redev:chain_ladder",
+    "count": 4
+  }
+}

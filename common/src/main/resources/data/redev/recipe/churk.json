@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "RRR",
+    "RRR"
+  ],
+  "key":
+  {
+    "R": "redev:caramine_rye"
+  },
+  "result":
+  {
+    "id": "redev:churk",
+    "count":  1
+  }
+}

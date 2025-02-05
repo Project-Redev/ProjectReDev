@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "PPP",
+    "BBB",
+    "PPP"
+  ],
+  "key":
+  {
+    "P": "minecraft:jungle_planks",
+    "B": "minecraft:book"
+  },
+  "result":
+  {
+    "id": "redev:jungle_bookshelf",
+    "count": 1
+  }
+}

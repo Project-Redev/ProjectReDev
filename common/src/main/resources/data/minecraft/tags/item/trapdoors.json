@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "redev:whispur_trapdoor",
+    "redev:scrapwood_trapdoor",
+    "redev:petrified_trapdoor",
+    "redev:shade_trapdoor"
+  ]
+}

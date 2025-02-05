@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "LWL",
+    "LLL",
+    "LWL"
+  ],
+  "key":
+  {
+    "L": "#redev:ladders",
+    "W": "minecraft:oak_planks"
+  },
+  "result":
+  {
+    "id": "minecraft:ladder",
+    "count": 7
+  }
+}

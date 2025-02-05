@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "H H",
+    "HHH",
+    "HHH"
+  ],
+  "key":
+  {
+    "H": "redev:hoglin_hide"
+  },
+  "result":
+  {
+    "id": "redev:hoglin_hide_cloak",
+    "count": 1
+  }
+}

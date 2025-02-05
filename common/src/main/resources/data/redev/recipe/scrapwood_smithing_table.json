@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    "II",
+    "PP",
+    "PP"
+  ],
+  "key":
+  {
+    "P": "redev:scrapwood_planks",
+    "I": "#c:ingots/iron"
+  },
+  "result":
+  {
+    "id": "redev:scrapwood_smithing_table"
+  },
+  "show_notification": true
+}

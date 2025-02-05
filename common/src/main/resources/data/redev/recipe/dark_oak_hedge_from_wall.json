@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "HH",
+    "HH"
+  ],
+  "key":
+  {
+    "H": "redev:dark_oak_hedge_wall"
+  },
+  "result":
+  {
+    "id": "redev:dark_oak_hedge",
+    "count": 2
+  }
+}

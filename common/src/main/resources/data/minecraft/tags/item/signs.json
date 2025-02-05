@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "redev:scrapwood_sign",
+    "redev:whispur_sign",
+    "redev:petrified_sign",
+    "redev:shade_sign"
+  ]
+}

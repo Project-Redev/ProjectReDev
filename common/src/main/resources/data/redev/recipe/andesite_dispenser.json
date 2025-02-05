@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "AAA",
+    "AbA",
+    "ARA"
+  ],
+  "key":
+  {
+    "A": "minecraft:andesite",
+    "b": "#c:tools/bow",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:andesite_dispenser",
+    "count": 1
+  }
+}

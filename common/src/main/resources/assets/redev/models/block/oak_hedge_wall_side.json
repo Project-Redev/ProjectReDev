@@ -1,0 +1,6 @@
+{
+  "parent": "redev:block/template_leafy_wall_side",
+  "textures": {
+    "wall": "redev:block/oak_hedge"
+  }
+}

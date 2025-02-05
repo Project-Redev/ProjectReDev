@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "LWL",
+    "LLL",
+    "LWL"
+  ],
+  "key":
+  {
+    "L": "#redev:ladders",
+    "W": "redev:petrified_planks"
+  },
+  "result":
+  {
+    "id": "redev:petrified_ladder",
+    "count": 7
+  }
+}

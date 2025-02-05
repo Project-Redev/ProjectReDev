@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "HH",
+    "HH"
+  ],
+  "key":
+  {
+    "H": "redev:jungle_hedge_wall"
+  },
+  "result":
+  {
+    "id": "redev:jungle_hedge",
+    "count": 2
+  }
+}

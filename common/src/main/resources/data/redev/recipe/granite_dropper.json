@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "GGG",
+    "G G",
+    "GRG"
+  ],
+  "key":
+  {
+    "G": "minecraft:granite",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:granite_dropper",
+    "count": 1
+  }
+}

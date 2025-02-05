@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "key":
+  {
+    "C": "#minecraft:soul_fire_base_blocks",
+    "L": "minecraft:warped_stem",
+    "S": "#c:rods/wooden"
+  },
+  "result":
+  {
+    "id": "redev:warped_soul_campfire"
+  },
+  "show_notification": true
+}

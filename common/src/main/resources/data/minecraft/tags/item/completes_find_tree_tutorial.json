@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "redev:scrapwood_heap",
+    "redev:petrified_log",
+    "redev:shade_log",
+    "redev:shade_wood"
+  ]
+}

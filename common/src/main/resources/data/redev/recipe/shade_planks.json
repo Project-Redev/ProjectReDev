@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    "redev:shade_log"
+  ],
+  "result": 
+  {
+    "id": "redev:shade_planks",
+    "count": 4
+  }
+}

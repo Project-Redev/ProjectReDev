@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "BBB",
+    "BbB",
+    "BRB"
+  ],
+  "key":
+  {
+    "B": "minecraft:blackstone",
+    "b": "#c:tools/bow",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:blackstone_dispenser",
+    "count": 1
+  }
+}

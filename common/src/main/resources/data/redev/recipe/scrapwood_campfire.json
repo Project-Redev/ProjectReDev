@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "key":
+  {
+    "C": "#minecraft:coals",
+    "L": "redev:scrapwood_heap",
+    "S":"#c:rods/wooden"
+  },
+  "result":
+  {
+    "id": "redev:scrapwood_campfire"
+  },
+  "show_notification": true
+}

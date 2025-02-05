@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "III",
+    "I I"
+  ],
+  "key":
+  {
+    "I": "redev:withered_ingot"
+  },
+  "result":
+  {
+    "id": "redev:withered_helmet",
+    "count": 1
+  }
+}

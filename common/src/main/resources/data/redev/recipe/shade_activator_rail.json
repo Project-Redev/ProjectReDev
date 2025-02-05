@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "GWG",
+    "GRG",
+    "GWG"
+  ],
+  "key":
+  {
+    "G": "#c:ingots/gold",
+    "R": "#c:dusts/redstone",
+    "W": "redev:shade_slab"
+  },
+  "result":
+  {
+    "id": "redev:shade_activator_rail",
+    "count":  6
+  }
+}

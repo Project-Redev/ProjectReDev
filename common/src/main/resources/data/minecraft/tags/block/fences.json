@@ -1,0 +1,10 @@
+{
+  "replace": false,
+  "values":
+  [
+    "redev:whispur_fence",
+    "redev:scrapwood_fence",
+    "redev:petrified_fence",
+    "redev:shade_fence"
+  ]
+}

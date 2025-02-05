@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "LWL",
+    "LLL",
+    "LWL"
+  ],
+  "key":
+  {
+    "L": "#redev:ladders",
+    "W": "minecraft:jungle_planks"
+  },
+  "result":
+  {
+    "id": "redev:jungle_ladder",
+    "count": 7
+  }
+}

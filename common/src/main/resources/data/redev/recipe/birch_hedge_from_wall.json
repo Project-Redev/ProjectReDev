@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "HH",
+    "HH"
+  ],
+  "key":
+  {
+    "H": "redev:birch_hedge_wall"
+  },
+  "result":
+  {
+    "id": "redev:birch_hedge",
+    "count": 2
+  }
+}

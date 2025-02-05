@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "PPP",
+    "BBB",
+    "PPP"
+  ],
+  "key":
+  {
+    "P": "minecraft:acacia_planks",
+    "B": "minecraft:book"
+  },
+  "result":
+  {
+    "id": "redev:acacia_bookshelf",
+    "count": 1
+  }
+}

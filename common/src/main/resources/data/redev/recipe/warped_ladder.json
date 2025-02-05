@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "S S",
+    "SBS",
+    "S S"
+  ],
+  "key":
+  {
+    "S": "#c:rods/wooden",
+    "B": "minecraft:warped_slab"
+  },
+  "result":
+  {
+    "id": "redev:warped_ladder",
+    "count": 3
+  }
+}

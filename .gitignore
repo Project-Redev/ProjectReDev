@@ -1,0 +1,12 @@
+# Project exclude paths
+/.gradle/
+/build/
+/runs/
+/.idea/
+libs
+/run/*
+!/run/saves/
+/run/saves/*
+!/run/saves/world/
+/fabric/.gradle/
+/fabric/build/

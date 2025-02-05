@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "GGG",
+    "G G",
+    "GGG"
+  ],
+  "key":
+  {
+    "G": "minecraft:granite"
+  },
+  "result":
+  {
+    "id": "redev:granite_furnace",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "replace": false,
+  "values":
+  [
+    "redev:aurum_sword",
+    "redev:aurum_pickaxe",
+    "redev:aurum_axe",
+    "redev:aurum_shovel",
+    "redev:aurum_hoe",
+    "redev:withered_sword",
+    "redev:withered_pickaxe",
+    "redev:withered_axe",
+    "redev:withered_shovel",
+    "redev:withered_hoe"
+  ]
+}

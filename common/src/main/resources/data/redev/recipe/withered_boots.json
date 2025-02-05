@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "I I",
+    "I I"
+  ],
+  "key":
+  {
+    "I": "redev:withered_ingot"
+  },
+  "result":
+  {
+    "id": "redev:withered_boots",
+    "count": 1
+  }
+}

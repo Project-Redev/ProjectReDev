@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "food",
+  "pattern":
+  [
+    "DD",
+    "DD"
+  ],
+  "key":
+  {
+    "D": "redev:durian_slice"
+  },
+  "result": {
+    "id": "redev:durian"
+  },
+  "show_notification": true
+}

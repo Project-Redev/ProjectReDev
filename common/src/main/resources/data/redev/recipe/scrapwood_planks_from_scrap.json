@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WW",
+    "WW"
+  ],
+  "key":
+  {
+    "W": "redev:wood_scrap"
+  },
+  "result":
+  {
+    "id": "redev:scrapwood_planks",
+    "count":  1
+  }
+}

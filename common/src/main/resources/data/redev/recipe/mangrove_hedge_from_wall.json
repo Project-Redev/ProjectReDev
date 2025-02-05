@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "HH",
+    "HH"
+  ],
+  "key":
+  {
+    "H": "redev:mangrove_hedge_wall"
+  },
+  "result":
+  {
+    "id": "redev:mangrove_hedge",
+    "count": 2
+  }
+}

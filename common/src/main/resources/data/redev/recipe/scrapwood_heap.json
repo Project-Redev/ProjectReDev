@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "WWW",
+    "WWW",
+    "WWW"
+  ],
+  "key":
+  {
+    "W": "redev:wood_scrap"
+  },
+  "result":
+  {
+    "id": "redev:scrapwood_heap",
+    "count":  1
+  }
+}

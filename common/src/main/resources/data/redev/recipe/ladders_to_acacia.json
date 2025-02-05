@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "LWL",
+    "LLL",
+    "LWL"
+  ],
+  "key":
+  {
+    "L": "#redev:ladders",
+    "W": "minecraft:acacia_planks"
+  },
+  "result":
+  {
+    "id": "redev:acacia_ladder",
+    "count": 7
+  }
+}

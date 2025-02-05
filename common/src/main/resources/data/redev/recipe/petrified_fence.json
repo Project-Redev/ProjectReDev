@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_fence",
+  "key":
+  {
+    "#": "#c:rods/wooden",
+    "W": "redev:petrified_planks"
+  },
+  "pattern":
+  [
+    "W#W",
+    "W#W"
+  ],
+  "result":
+  {
+    "id": "redev:petrified_fence",
+    "count": 3
+  },
+  "show_notification": true
+}

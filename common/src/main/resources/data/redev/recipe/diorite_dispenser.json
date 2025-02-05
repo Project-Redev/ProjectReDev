@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "DDD",
+    "DbD",
+    "DRD"
+  ],
+  "key":
+  {
+    "D": "minecraft:diorite",
+    "b": "#c:tools/bow",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:diorite_dispenser",
+    "count": 1
+  }
+}

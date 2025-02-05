@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "BBB",
+    "B B",
+    "BRB"
+  ],
+  "key":
+  {
+    "B": "minecraft:blackstone",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:blackstone_dropper",
+    "count": 1
+  }
+}

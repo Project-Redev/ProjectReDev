@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_sign",
+  "key":
+  {
+    "#": "redev:petrified_planks",
+    "X": "#c:rods/wooden"
+  },
+  "pattern":
+  [
+    "###",
+    "###",
+    " X "
+  ],
+  "result":
+  {
+    "id": "redev:petrified_sign",
+    "count": 3
+  },
+  "show_notification": true
+}

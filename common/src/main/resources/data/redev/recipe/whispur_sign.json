@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "wooden_sign",
+  "key":
+  {
+    "#": "redev:whispur_planks",
+    "X": "#c:rods/wooden"
+  },
+  "pattern":
+  [
+    "###",
+    "###",
+    " X "
+  ],
+  "result":
+  {
+    "id": "redev:whispur_sign",
+    "count": 3
+  },
+  "show_notification": true
+}

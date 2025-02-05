@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "key":
+  {
+    "C": "#minecraft:soul_fire_base_blocks",
+    "L": "minecraft:crimson_stem",
+    "S": "#c:rods/wooden"
+  },
+  "result": {
+    "id": "redev:crimson_soul_campfire"
+  },
+  "show_notification": true
+}

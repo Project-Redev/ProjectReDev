@@ -1,0 +1,28 @@
+{
+  "block.minecraft.bookshelf":      "Oak Bookshelf",
+  "block.minecraft.campfire":       "Oak Campfire",
+  "block.minecraft.soul_campfire":  "Oak Soul Campfire",
+  "block.minecraft.ladder":         "Oak Ladder",
+  "block.minecraft.rail":           "Oak Rail",
+  "block.minecraft.detector_rail":  "Oak Detector Rail",
+  "block.minecraft.powered_rail":   "Oak Powered Rail",
+  "block.minecraft.activator_rail": "Oak Activator Rail",
+  "block.minecraft.smithing_table": "Oak Smithing Table",
+  "block.minecraft.furnace":        "Stone Furnace",
+  "block.minecraft.dispenser":      "Stone Dispenser",
+  "block.minecraft.dropper":        "Stone Dropper",
+
+  "entity.minecraft.zombified_piglin": "Zombie Piglin",
+  "item.minecraft.zombified_piglin_spawn_egg": "Zombie Piglin Spawn Egg",
+
+  "potion.potency.9": "X",
+  "potion.potency.8": "IX",
+  "potion.potency.7": "VIII",
+  "potion.potency.6": "VII",
+  "potion.potency.5": "VI",
+  "potion.potency.4": "V",
+  "potion.potency.3": "IV",
+  "potion.potency.2": "III",
+  "potion.potency.1": "II",
+  "potion.potency.0": "I"
+}

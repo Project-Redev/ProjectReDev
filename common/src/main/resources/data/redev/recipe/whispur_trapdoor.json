@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_trapdoor",
+  "key":
+  {
+    "#": "redev:whispur_planks"
+  },
+  "pattern":
+  [
+    "###",
+    "###"
+  ],
+  "result":
+  {
+    "id": "redev:whispur_trapdoor",
+    "count": 2
+  },
+  "show_notification": true
+}

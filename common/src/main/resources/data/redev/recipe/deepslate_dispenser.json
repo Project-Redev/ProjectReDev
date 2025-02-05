@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "DDD",
+    "DBD",
+    "DRD"
+  ],
+  "key":
+  {
+    "D": "minecraft:deepslate",
+    "B": "#c:tools/bow",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:deepslate_dispenser",
+    "count": 1
+  }
+}

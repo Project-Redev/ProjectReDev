@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern":
+  [
+    " S ",
+    "SCS",
+    "LLL"
+  ],
+  "key":
+  {
+    "C": "#minecraft:soul_fire_base_blocks",
+    "L": "minecraft:acacia_log",
+    "S": "#c:rods/wooden"
+  },
+  "result": {
+    "id": "redev:acacia_soul_campfire"
+  },
+  "show_notification": true
+}

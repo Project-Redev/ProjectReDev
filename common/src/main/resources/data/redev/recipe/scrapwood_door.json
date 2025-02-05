@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_door",
+  "pattern":
+  [
+    "##",
+    "##",
+    "##"
+  ],
+  "key":
+  {
+    "#": "redev:scrapwood_planks"
+  },
+  "result":
+  {
+    "id": "redev:scrapwood_door",
+    "count": 3
+  },
+  "show_notification": true
+}

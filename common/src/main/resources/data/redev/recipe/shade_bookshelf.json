@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "PPP",
+    "BBB",
+    "PPP"
+  ],
+  "key":
+  {
+    "P": "redev:shade_planks",
+    "B": "minecraft:book"
+  },
+  "result":
+  {
+    "id": "redev:shade_bookshelf",
+    "count": 1
+  }
+}

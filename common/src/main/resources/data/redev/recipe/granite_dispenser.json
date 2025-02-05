@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "GGG",
+    "GbG",
+    "GRG"
+  ],
+  "key":
+  {
+    "G": "minecraft:granite",
+    "b": "#c:tools/bow",
+    "R": "#c:dusts/redstone"
+  },
+  "result":
+  {
+    "id": "redev:granite_dispenser",
+    "count": 1
+  }
+}

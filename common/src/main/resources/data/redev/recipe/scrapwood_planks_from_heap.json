@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients":
+  [
+    "redev:scrapwood_heap"
+  ],
+  "result":
+  {
+    "id": "redev:scrapwood_planks",
+    "count":  2
+  }
+}

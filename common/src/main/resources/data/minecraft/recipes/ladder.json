@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "S S",
+    "SBS",
+    "S S"
+  ],
+  "key":
+  {
+    "S":
+    {
+      "tag": "forge:rods/wooden"
+    },
+    "B":
+    {
+      "item": "minecraft:oak_slab"
+    }
+  },
+  "result":
+  {
+    "item": "minecraft:ladder",
+    "count": 3
+  }
+}

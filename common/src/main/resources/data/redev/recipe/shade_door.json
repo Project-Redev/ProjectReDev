@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "redstone",
+  "group": "wooden_door",
+  "key":
+  {
+    "#": "redev:shade_planks"
+  },
+  "pattern":
+  [
+    "##",
+    "##",
+    "##"
+  ],
+  "result":
+  {
+    "id": "redev:shade_door",
+    "count": 3
+  },
+  "show_notification": true
+}
